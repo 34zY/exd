@@ -3,7 +3,7 @@ Portable tool to dump any file to hex and retrieve file hex to original file. (W
 
 ## Usage
 
-Linux ;
+**Linux** ;
 ```bash
 chmod +x exd_x86-64_lin.elf
 
