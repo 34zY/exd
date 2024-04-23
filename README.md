@@ -12,6 +12,9 @@ chmod +x exd_x86-64_lin.elf
 
 # Retrieve the file from hexdump
 ./exd_x86-64_lin.elf -d test.hex > executable.elf
+
+# Or specify outputfile -o
+./exd_x86-64_lin.elf -d test.hex -o executable.elf
 ```
 
-Same for Windows with `exd_x86-64_win.exe`
+Same for **Windows** with `exd_x86-64_win.exe`
